@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">سمعک هوشمند</string>
+    <string name="start">شروع</string>
+    <string name="stop">توقف</string>
+    <string name="left_ear">گوش چپ</string>
+    <string name="right_ear">گوش راست</string>
+    <string name="frequency">فرکانس</string>
+    <string name="gain">تقویت (dB)</string>
+    <string name="noise_reduction">کاهش نویز</string>
+    <string name="master_volume">صدا</string>
+    <string name="hz">هرتز</string>
+    <string name="db">دسی‌بل</string>
+    <string name="audio_permission_required">دسترسی به میکروفون مورد نیاز است</string>
+</resources>
+
